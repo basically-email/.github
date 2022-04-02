@@ -1,0 +1,43 @@
+  <svg
+            className="w-full mt-[5px]"
+            width="617"
+            height="21"
+            viewBox="0 0 617 21"
+            fill="none"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <rect
+              x="0.5"
+              y="0.5"
+              width="616"
+              height="20"
+              rx="5.5"
+              fill="#FFFAFA"
+              fillOpacity="0.64"
+              stroke="black"
+            />
+            <rect
+              x="1"
+              y="1"
+              width="458"
+              height="19"
+              rx="5"
+              fill="url(#paint0_linear_1023_132)"
+              fillOpacity="0.6"
+            />
+            <defs>
+              <linearGradient
+                id="paint0_linear_1023_132"
+                x1="459"
+                y1="10.0002"
+                x2="0.999998"
+                y2="10.0001"
+                gradientUnits="userSpaceOnUse"
+              >
+                <stop stopColor="#FE1E53" />
+                <stop offset="0.416667" stopColor="#0038FD" />
+                <stop offset="0.697917" stopColor="#3BDEB7" />
+                <stop offset="1" stopColor="#AFF717" />
+              </linearGradient>
+            </defs>
+          </svg>
